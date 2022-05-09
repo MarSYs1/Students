@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='1- Tipos de dados'/>
+        <page name='2- Operadores'/>
+        <page name='3- Declaracoes Condicionais'/>
+        <page name='4-'/>
+        <page name='5-'/>
+        <page name='6-'/>
+        <page name='7-'/>
+        <page name='8-'/>
+        <page name='9- OOP'/>
+        <page name='10- Tipo estático vs tipo dinâmico'/>
+        <page name='11- Opicional'/>
+        <page name='12- Generico'/>
+        <page name='14- Subsrito'/>
+        <page name='15-'/>
+        <page name='16-'/>
+        <page name='17-'/>
+        <page name='18-'/>
+        <page name='19-'/>
+        <page name='20-'/>
+        <page name='21-'/>
+        <page name='22-'/>
+        <page name='hh'/>
+    </pages>
+</playground>
